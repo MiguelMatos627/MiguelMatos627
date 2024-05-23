@@ -1,9 +1,9 @@
 ## Olá, seja bem vindo ao meu perfil 💙
 
-Meu nome é Miguel Matos, 17
-Estudo na José Vieira De Moraes
-Tenho bastante competência na área de informática
-Resido em Sâo Paulo, SP
+- Meu nome é Miguel Matos, 17
+- Estudo na José Vieira De Moraes
+- Tenho bastante competência na área de informática
+- Resido em Sâo Paulo, SP
 
 
 
