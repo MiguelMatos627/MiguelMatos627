@@ -3,7 +3,7 @@
 - Meu nome é Miguel Matos, 17
 - Estudo na José Vieira De Moraes
 - Possuo bastante competência na área de informática
-- Resido em Sâo Paulo, SP
+- Resido em São Paulo, SP
 
 
 
